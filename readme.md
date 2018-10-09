@@ -1,7 +1,9 @@
 # ExeclProcess
 Java代码进行Execl读取数据、处理、导出
 
-
+# 提醒
+1、代码中用了guava包一对多map，所以jar包直接放上来。
+2、execl的格式xls的，如果是xlsx需要转格式。
 
 
 # 致谢
